@@ -4,10 +4,13 @@
 
 Projeto acadêmico para identificação automatizada de problemas de infraestrutura e elementos de acessibilidade em calçadas, utilizando técnicas de visão computacional e detecção de objetos com YOLOv8
 
+Link para o deploy: <a href="https://effervescent-marzipan-15fc71.netlify.app">Deploy do nosso app</A>
+
 Alunos:
 
 - Leticia Cristina Gandarez Resina RM98069
 - João Rihan
+- Gabriel Riquetto 
 
 ## 📌 1. Sobre o projeto
 
